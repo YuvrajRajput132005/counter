@@ -1,4 +1,4 @@
- import Counter from "./components/Counter";
+ import counter from "./components/Counter";
 import React, { useState } from "react";
 
 function Counter() {
